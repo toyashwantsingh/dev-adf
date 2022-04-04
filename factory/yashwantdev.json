@@ -1,0 +1,9 @@
+{
+	"name": "yashwantdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59460f05-d98c-4781-ab48-52675564f3f7",
+		"tenantId": "b55bb032-fbaa-45cb-9873-c537d8d0b732"
+	}
+}
